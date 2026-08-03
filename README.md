@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner.png" alt="wow4423 banner" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=8A8F98&center=true&vCenter=true&width=520&lines=Java+%2F+Spring+Boot+%2F+React;PostgreSQL+%2F+MariaDB;Always+learning" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_animated.svg" alt="wow4423 banner" width="100%" />
 
 </div>
 
