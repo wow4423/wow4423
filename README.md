@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/github/followers/wow4423?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/STATUS-Job%20Hunting%20%E2%9C%A8-4FD1FF?style=for-the-badge" alt="status" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=wow4423&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-
 </div>
 
 <br/>
