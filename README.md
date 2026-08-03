@@ -1,15 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Hi%20👋%20I'm%20wow4423&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Frontend%20Developer&descAlignY=58&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6B6B,50:9B59FF,100:4FD1FF&text=wow4423&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Frontend%20Developer&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=0)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+%26+Frontend+Developer;Java+%2F+Spring+Boot+%2F+React;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=9B59FF&center=true&vCenter=true&width=650&lines=Java+%2F+Spring+Boot+%2F+React;PostgreSQL+%2B+Docker+%2B+AWS;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wow4423&label=Profile%20Views&color=6c63ff&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/wow4423?label=Followers&style=flat&color=6c63ff" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=wow4423&label=PROFILE+VIEWS&color=9B59FF&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/wow4423?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&logo=github" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-Job%20Hunting%20%E2%9C%A8-4FD1FF?style=for-the-badge" alt="status" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=wow4423&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
@@ -17,17 +22,39 @@
 
 ## 👋 About Me
 
+<img align="right" width="260" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="coding gif" />
+
 - 🌱 Java / Spring Boot 백엔드와 React 프론트엔드를 함께 다루는 개발자예요
 - 🛠 최근엔 PostgreSQL, Docker, AWS로 배포까지 직접 해보고 있어요
+- ⚡ 새로운 기술 스택 배우는 걸 좋아해요
 - 📫 편하게 이슈나 PR로 연락 주세요!
 
-<br/>
+<br clear="right"/>
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,docker,aws,git,vscode,idea)
+![Frontend](https://img.shields.io/badge/-Frontend-9B59FF?style=for-the-badge)
+<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Backend](https://img.shields.io/badge/-Backend-FF6B6B?style=for-the-badge)
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Tools](https://img.shields.io/badge/-Tools-4FD1FF?style=for-the-badge)
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -37,10 +64,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wow4423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wow4423&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=wow4423&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wow4423&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wow4423&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wow4423&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wow4423&theme=react-dark&hide_border=true&bg_color=00000000&area=true" alt="Activity Graph" width="49%" />
 
 </div>
 
@@ -60,4 +88,8 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4FD1FF,50:9B59FF,100:FF6B6B&section=footer)
+
+</div>
