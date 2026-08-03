@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_animated.svg" alt="juniverse banner" width="100%" />
+<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_v2.svg" alt="juniverse banner" width="100%" />
 
 </div>
 
