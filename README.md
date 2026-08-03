@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_v2.svg" alt="juniverse banner" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_light.svg" />
+  <img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_dark.svg" alt="juniverse banner" width="100%" />
+</picture>
 
 </div>
 
