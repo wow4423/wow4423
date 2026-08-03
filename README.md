@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_animated.svg" alt="wow4423 banner" width="100%" />
+<img src="https://raw.githubusercontent.com/wow4423/wow4423/main/assets/banner_animated.svg" alt="juniverse banner" width="100%" />
 
 </div>
 
 <br/>
 
-새로운 걸 배우는 걸 좋아하는 백엔드 · 프론트엔드 개발자입니다.
-
-<br/>
-
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,mariadb,docker,aws,git&theme=light)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,mysql,docker,aws,git&theme=light)
 
 </div>
 
