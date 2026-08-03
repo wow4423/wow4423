@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6B6B,50:9B59FF,100:4FD1FF&text=wow4423&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Frontend%20Developer&descAlignY=55&descSize=20&stroke=ffffff&strokeWidth=0)
+# 안녕하세요, wow4423 입니다 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=9B59FF&center=true&vCenter=true&width=650&lines=Java+%2F+Spring+Boot+%2F+React;PostgreSQL+%2B+Docker+%2B+AWS;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wow4423&label=PROFILE+VIEWS&color=9B59FF&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/wow4423?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/STATUS-Job%20Hunting%20%E2%9C%A8-4FD1FF?style=for-the-badge" alt="status" />
 
@@ -86,6 +85,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4FD1FF,50:9B59FF,100:FF6B6B&section=footer)
+![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting!-9B59FF?style=for-the-badge)
 
 </div>
